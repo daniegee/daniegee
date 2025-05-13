@@ -4,6 +4,10 @@
 
 <h4 align="center">My name is Daniella and I'm a budding Software Engineer/Project Manager</h4>
 
+<div align="center">
+  <img src="https://preview.redd.it/developerexperience-v0-h50fc2ytgelb1.png?auto=webp&s=398b757d9166ad59a79e54ef09f5030b66ccef48" height="200" />
+</div>
+
 ###
 
 <h2 align="center">About me</h2>
