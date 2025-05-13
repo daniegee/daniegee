@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently exploring machine learning fundamentals<br>💻 Working on a karaoke search engine<br>💪 When I'm not at work you'll find me at the gym<br>💥 Fond collector of golden nuggets or knowledge</p>
+<p align="left">📚 Currently exploring machine learning fundamentals<br>💻 Working on a karaoke search engine<br>💪 When I'm not at work you'll find me at the gym<br>💥 Fond collector of golden nuggets of knowledge</p>
 
 ###
 
